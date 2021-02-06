@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcffeef0-71ae-4c32-8b37-6ad428e66666" name="Default Changelist" comment="" />
+    <list default="true" id="bcffeef0-71ae-4c32-8b37-6ad428e66666" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/week_5/06_get_min_city_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_5/06_get_min_city_distance.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -16,6 +21,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1malCuR3O5P0ynlnbA6KYrPCmAi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -161,5 +167,16 @@
       <updated>1609739458755</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
